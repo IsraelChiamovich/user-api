@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using User_api.Dto;
 using User_api.Models;
@@ -9,8 +10,15 @@ namespace User_api.Controllers
 
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController(IUserService userService) : ControllerBase
+    public class UserController(IUserService userService, IJwtService jwtService) : ControllerBase
     {
+        [HttpPost("create-token")]
+        public ActionResult<string> CreateToken([FromBody] UserModel user)
+        {
+            return Ok(jwtService.GenerateToken(user));
+        }
+
+
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public async Task<ActionResult<List<UserModel>>> GetAll() =>
@@ -18,6 +26,7 @@ namespace User_api.Controllers
 
 
         [HttpGet("{id}")]
+        [Authorize]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<UserModel>> GetUserById(int id)
@@ -28,6 +37,7 @@ namespace User_api.Controllers
 
 
         [HttpPost("Create")]
+        [Authorize]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<UserModel>> CreateUser([FromBody] UserModel model)
@@ -44,6 +54,7 @@ namespace User_api.Controllers
         }
 
         [HttpPut("update/{id}")]
+        [Authorize]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<UserModel>> UpdateUser(int id, [FromBody] UserModel user)
@@ -85,13 +96,13 @@ namespace User_api.Controllers
         {
             try
             {
-                return await userService.AuthenticateAsync(loginDto.Email, loginDto.Password)
-                    ? Ok("Authenticated successfully")
-                    : Unauthorized();
+                UserModel authenticad = await userService.AuthenticateAsync(loginDto.Email, loginDto.Password);
+                return Ok(jwtService.GenerateToken(authenticad));
+                    
             }
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return Unauthorized(ex.Message);
             }
         }
         

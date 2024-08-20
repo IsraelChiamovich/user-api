@@ -1,4 +1,7 @@
 
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using User_api.Data;
 using User_api.Services;
 
@@ -18,6 +21,20 @@ namespace User_api
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<AplicationDbContext>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IJwtService, JwtService>();
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new()
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                        ValidAudience = builder.Configuration["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+                    };
+                });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

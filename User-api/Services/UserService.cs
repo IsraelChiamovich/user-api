@@ -45,11 +45,15 @@ namespace User_api.Services
             return byId;
         }
 
-        public async Task<bool> AuthenticateAsync(string email, string password)
+        public async Task<UserModel> AuthenticateAsync(string email, string password)
         {
             var user = await FindByEmailAsync(email) ?? throw new Exception($"The user by email {email} does not found");
-            var isValid = BCrypt.Net.BCrypt.Verify(password, user.Password);
-            return isValid;
+            var isValidPwd = BCrypt.Net.BCrypt.Verify(password, user.Password);
+            if (!isValidPwd)
+            {
+                throw new Exception("Wrong connection details");
+            }
+            return user;
         }
 
         

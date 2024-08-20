@@ -135,3 +135,5 @@ C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\obj\Debug\net8.0\re
 C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\obj\Debug\net8.0\User-api.pdb
 C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\obj\Debug\net8.0\User-api.genruntimeconfig.cache
 C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\obj\Debug\net8.0\ref\User-api.dll
+C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\idf kodcode\c#\week8\User-api\User-api\obj\Debug\net8.0\User-api.sourcelink.json

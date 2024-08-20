@@ -15,6 +15,22 @@
       "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|solutionrelative:user-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4F49802-DBA1-4D4A-BB21-733912E1BEB4}|User-api\\User-api.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week8\\user-api\\user-api\\migrations\\20240818070843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 161,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "User-api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\JwtService.cs",
+              "RelativeToolTip": "User-api\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:25:25.24Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,34 +77,9 @@
               "RelativeDocumentMoniker": "User-api\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Controllers\\UserController.cs",
               "RelativeToolTip": "User-api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T07:44:48.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "User-api\\Data\\AplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "User-api\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:18:51.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "User-api\\Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Models\\UserModel.cs",
-              "RelativeToolTip": "User-api\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:10:53.675Z",
               "EditorCaption": ""
             },
             {
@@ -94,7 +90,7 @@
               "RelativeDocumentMoniker": "User-api\\Services\\IUserService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\IUserService.cs",
               "RelativeToolTip": "User-api\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T07:10:38.755Z",
               "EditorCaption": ""
@@ -107,14 +103,53 @@
               "RelativeDocumentMoniker": "User-api\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\UserService.cs",
               "RelativeToolTip": "User-api\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T07:11:55.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\appsettings.json",
+              "RelativeDocumentMoniker": "User-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\appsettings.json",
+              "RelativeToolTip": "User-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T06:26:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Program.cs",
+              "RelativeDocumentMoniker": "User-api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Program.cs",
+              "RelativeToolTip": "User-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:40:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "User-api\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Services\\IJwtService.cs",
+              "RelativeToolTip": "User-api\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:22:50.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20240818070843_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Migrations\\20240818070843_InitialCreate.cs",
               "RelativeDocumentMoniker": "User-api\\Migrations\\20240818070843_InitialCreate.cs",
@@ -122,11 +157,25 @@
               "RelativeToolTip": "User-api\\Migrations\\20240818070843_InitialCreate.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T07:08:43.236Z"
+              "WhenOpened": "2024-08-18T07:08:43.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "User-api\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Models\\UserModel.cs",
+              "RelativeToolTip": "User-api\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:10:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "User-api\\Dto\\LoginDto.cs",
@@ -139,27 +188,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\appsettings.json",
-              "RelativeDocumentMoniker": "User-api\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\appsettings.json",
-              "RelativeToolTip": "User-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T06:26:07.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Program.cs",
-              "RelativeDocumentMoniker": "User-api\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Program.cs",
-              "RelativeToolTip": "User-api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBMAAABEAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "User-api\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week8\\User-api\\User-api\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "User-api\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:40:51.946Z"
+              "WhenOpened": "2024-08-18T06:18:51.242Z",
+              "EditorCaption": ""
             }
           ]
         }

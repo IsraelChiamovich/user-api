@@ -135,6 +135,32 @@
   },
   {
     "ContainingType": "User_api.Controllers.UserController",
+    "Method": "CreateToken",
+    "RelativePath": "api/User/create-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "User_api.Models.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "User_api.Controllers.UserController",
     "Method": "DeleteUser",
     "RelativePath": "api/User/delete/{id}",
     "HttpMethod": "DELETE",
